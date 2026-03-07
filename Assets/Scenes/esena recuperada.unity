@@ -373,11 +373,6 @@ Transform:
   - {fileID: 671622694}
   - {fileID: 385025362}
   - {fileID: 1248322108}
-  - {fileID: 1896826190}
-  - {fileID: 1183030406}
-  - {fileID: 177955591}
-  - {fileID: 1551835147}
-  - {fileID: 1947799955}
   - {fileID: 41930583}
   - {fileID: 1462530917}
   - {fileID: 1154243354}
@@ -390,46 +385,15 @@ Transform:
   - {fileID: 2031086166}
   - {fileID: 1219347883}
   - {fileID: 74889551}
-  - {fileID: 1676247582}
-  - {fileID: 2058401272}
-  - {fileID: 1897572455}
   - {fileID: 135364968}
   - {fileID: 1001214766}
   - {fileID: 464645011}
   - {fileID: 1688835997}
   - {fileID: 159587133}
-  - {fileID: 97038663}
-  - {fileID: 1529687838}
-  - {fileID: 1886886923}
-  - {fileID: 1602741546}
-  - {fileID: 1474907171}
-  - {fileID: 1717329024}
-  - {fileID: 721610679}
-  - {fileID: 1931941524}
-  - {fileID: 848903876}
-  - {fileID: 1208826060}
-  - {fileID: 471753415}
-  - {fileID: 196481789}
-  - {fileID: 213659475}
-  - {fileID: 251844677}
-  - {fileID: 1792485515}
-  - {fileID: 695956353}
-  - {fileID: 1645834483}
-  - {fileID: 1797888683}
-  - {fileID: 1368088244}
-  - {fileID: 593269807}
-  - {fileID: 367845669}
   - {fileID: 611322978}
   - {fileID: 1728733919}
   - {fileID: 1085419550}
   - {fileID: 125531007}
-  - {fileID: 2107323821}
-  - {fileID: 950252307}
-  - {fileID: 1663957007}
-  - {fileID: 1464054984}
-  - {fileID: 1788450345}
-  - {fileID: 1566198554}
-  - {fileID: 1889077179}
   - {fileID: 478914854}
   - {fileID: 169797066}
   - {fileID: 425540355}
@@ -1166,8 +1130,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &44139767 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 05f2961b7630f7742b5c153d76221bda, type: 3}
@@ -1313,6 +1280,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
 --- !u!1 &51796933
 GameObject:
+<<<<<<< HEAD
 =======
 --- !u!43 &51330292
 Mesh:
@@ -1321,12 +1289,17 @@ Mesh:
 --- !u!43 &51330292
 Mesh:
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   serializedVersion: 6
   m_Component:
   - component: {fileID: 51796937}
@@ -1941,6 +1914,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 957582126}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -2120,6 +2094,8 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &74889550
 GameObject:
   m_ObjectHideFlags: 0
@@ -2232,8 +2208,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 74889550}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &74946202 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: e63e4ec380ee4694c818f52f32961997, type: 3}
@@ -2747,6 +2726,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1701343674}
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &92028354
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -3007,11 +2987,14 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 92028352}
@@ -3021,6 +3004,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 97038662}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 92028352}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -3033,8 +3019,11 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_Size: {x: 1.0000001, y: 0.99999994, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &93512081 stripped
@@ -3190,6 +3179,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 570272035}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -3256,6 +3246,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!43 &99945590
 Mesh:
   m_ObjectHideFlags: 0
@@ -3434,8 +3426,11 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &100367905 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -3905,6 +3900,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -4090,6 +4086,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &125531006
 GameObject:
   m_ObjectHideFlags: 0
@@ -5814,8 +5812,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &169978395
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6453,12 +6454,15 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
 --- !u!1 &184298854
+<<<<<<< HEAD
 =======
 --- !u!1 &177955590
 >>>>>>> Stashed changes
 =======
 --- !u!1 &177955590
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6466,14 +6470,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - component: {fileID: 184298858}
   - component: {fileID: 184298857}
   - component: {fileID: 184298856}
   - component: {fileID: 184298855}
   m_Layer: 0
   m_Name: Cube (5)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -6487,11 +6495,14 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!65 &184298855
@@ -6518,11 +6529,15 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!65 &184298855
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 184298854}
@@ -6532,6 +6547,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 177955590}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 184298854}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -6546,6 +6564,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!23 &184298856
@@ -6555,11 +6574,15 @@ BoxCollider:
 =======
 --- !u!23 &177955593
 >>>>>>> Stashed changes
+=======
+--- !u!23 &184298856
+>>>>>>> parent of 94b75de (salones)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 184298854}
@@ -6569,6 +6592,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 177955590}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 184298854}
+>>>>>>> parent of 94b75de (salones)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -6611,6 +6637,7 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!33 &184298857
@@ -6620,13 +6647,19 @@ MeshRenderer:
 =======
 --- !u!33 &177955594
 >>>>>>> Stashed changes
+=======
+--- !u!33 &184298857
+>>>>>>> parent of 94b75de (salones)
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 184298854}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &184298858
@@ -6650,6 +6683,7 @@ Transform:
   m_PrefabInstance: {fileID: 369996886}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &186127583
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 177955590}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
@@ -6660,6 +6694,8 @@ Transform:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &196481788
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6667,6 +6703,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - component: {fileID: 186127584}
@@ -6686,11 +6723,17 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 186127584}
+  m_Layer: 0
+  m_Name: ESTUFAS Y DECORASION
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!4 &186127584
@@ -6700,13 +6743,19 @@ GameObject:
 =======
 --- !u!4 &196481789
 >>>>>>> Stashed changes
+=======
+--- !u!4 &186127584
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 186127583}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -7977,6 +8026,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -9660,6 +9710,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!43 &269434278
 Mesh:
   m_ObjectHideFlags: 0
@@ -10641,8 +10693,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292351978}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &294150581
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11159,6 +11214,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &311936915
 BoxCollider:
+<<<<<<< HEAD
 =======
 --- !u!43 &298406202
 Mesh:
@@ -11167,12 +11223,17 @@ Mesh:
 --- !u!43 &298406202
 Mesh:
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 311936913}
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -11262,6 +11323,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -11441,6 +11503,8 @@ PrefabInstance:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &315297734 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5268433696047231752, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
@@ -11741,8 +11805,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &333691695
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12217,6 +12284,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 1461159221}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -12402,6 +12470,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &362496204
 GameObject:
   m_ObjectHideFlags: 0
@@ -12495,8 +12565,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &363205258 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1903793015256574387, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
@@ -12591,6 +12664,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 1864422222}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -12928,6 +13002,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &383493607
 GameObject:
   m_ObjectHideFlags: 0
@@ -13557,8 +13633,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &414186181 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -13931,6 +14010,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
 --- !u!1 &425540351
 GameObject:
+<<<<<<< HEAD
 =======
 --- !u!43 &423542120
 Mesh:
@@ -13939,12 +14019,17 @@ Mesh:
 --- !u!43 &423542120
 Mesh:
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   serializedVersion: 6
   m_Component:
   - component: {fileID: 425540355}
@@ -14600,6 +14685,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 828160748}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -14779,6 +14865,8 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!43 &453176909
 Mesh:
   m_ObjectHideFlags: 0
@@ -15391,8 +15479,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464645010}
   m_Mesh: {fileID: 1791931569}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &465040283
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15679,6 +15770,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 55794101}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -16016,6 +16108,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &478914853
 GameObject:
   m_ObjectHideFlags: 0
@@ -16346,8 +16440,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478914853}
   m_Mesh: {fileID: 1269416239}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &480879899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16876,6 +16973,7 @@ Transform:
   m_PrefabInstance: {fileID: 2038524077}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &500467666
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -17240,6 +17338,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -17247,14 +17347,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - component: {fileID: 500467670}
   - component: {fileID: 500467669}
   - component: {fileID: 500467668}
   - component: {fileID: 500467667}
   m_Layer: 0
   m_Name: Cube
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -17269,11 +17373,14 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!65 &500467667
@@ -17517,11 +17624,15 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!65 &500467667
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 500467666}
@@ -17531,6 +17642,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 593269806}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 500467666}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -17545,6 +17659,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!23 &500467668
@@ -17554,11 +17669,15 @@ BoxCollider:
 =======
 --- !u!23 &593269810
 >>>>>>> Stashed changes
+=======
+--- !u!23 &500467668
+>>>>>>> parent of 94b75de (salones)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 500467666}
@@ -17568,6 +17687,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 593269806}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 500467666}
+>>>>>>> parent of 94b75de (salones)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -17586,6 +17708,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - {fileID: 2100000, guid: 6b88eadd9352ba4419c98380c0c6ac29, type: 2}
@@ -17595,6 +17718,9 @@ MeshRenderer:
 =======
   - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
 >>>>>>> Stashed changes
+=======
+  - {fileID: 2100000, guid: 6b88eadd9352ba4419c98380c0c6ac29, type: 2}
+>>>>>>> parent of 94b75de (salones)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17618,8 +17744,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!33 &500467669
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -20073,6 +20202,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -20088,6 +20218,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &611322977
 GameObject:
   m_ObjectHideFlags: 0
@@ -20418,8 +20550,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611322977}
   m_Mesh: {fileID: 1034654405}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &611966869 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -20983,6 +21118,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 1835353907}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -21168,6 +21304,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &671622690
 GameObject:
   m_ObjectHideFlags: 0
@@ -21280,8 +21418,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &673894284
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21357,12 +21498,15 @@ Transform:
   m_PrefabInstance: {fileID: 915818580}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &676497316
+<<<<<<< HEAD
 =======
 --- !u!1 &695956352
 >>>>>>> Stashed changes
 =======
 --- !u!1 &695956352
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21370,14 +21514,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - component: {fileID: 676497320}
   - component: {fileID: 676497319}
   - component: {fileID: 676497318}
   - component: {fileID: 676497317}
   m_Layer: 0
   m_Name: Cube (2)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -21392,13 +21540,18 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!65 &676497317
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21478,19 +21631,25 @@ MeshFilter:
   m_GameObject: {fileID: 676497316}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &676497320
+<<<<<<< HEAD
 =======
 --- !u!4 &695956353
 >>>>>>> Stashed changes
 =======
 --- !u!4 &695956353
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 676497316}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -22332,6 +22491,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &729615062
 GameObject:
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -22350,12 +22510,17 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   serializedVersion: 6
   m_Component:
   - component: {fileID: 729615066}
@@ -22370,6 +22535,7 @@ MonoBehaviour:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!65 &729615063
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -22589,11 +22755,14 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 729615062}
@@ -22603,6 +22772,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 695956352}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 729615062}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -22617,6 +22789,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!23 &729615064
@@ -22626,11 +22799,15 @@ BoxCollider:
 =======
 --- !u!23 &695956356
 >>>>>>> Stashed changes
+=======
+--- !u!23 &729615064
+>>>>>>> parent of 94b75de (salones)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 729615062}
@@ -22640,6 +22817,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 695956352}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 729615062}
+>>>>>>> parent of 94b75de (salones)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -22682,6 +22862,7 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!33 &729615065
@@ -22703,10 +22884,15 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!33 &729615065
+MeshFilter:
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 729615062}
@@ -22734,13 +22920,21 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 729615062}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &729615066
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 729615062}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -22840,6 +23034,7 @@ GameObject:
   m_PrefabInstance: {fileID: 167096780}
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &734644117
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -23074,11 +23269,14 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 734644115}
@@ -23088,6 +23286,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 721610678}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 734644115}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -23100,8 +23301,11 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_Size: {x: 1.0000001, y: 0.99999994, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &737878781
@@ -23321,6 +23525,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 2125714078}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -23387,6 +23592,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &749381121
 GameObject:
   m_ObjectHideFlags: 0
@@ -23623,8 +23830,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 754872572}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &756147464
 =======
 --- !u!43 &763643090
@@ -24251,6 +24461,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 --- !u!43 &763643090
 =======
@@ -24439,6 +24650,8 @@ Mesh:
         m_IndexStart: 0
         m_IndexCount: 0
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &778652840
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25170,7 +25383,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
-<<<<<<< Updated upstream
 --- !u!4 &797887460 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -25473,15 +25685,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &807998512
 BoxCollider:
-=======
---- !u!43 &797273799
-Mesh:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 807998510}
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -25936,180 +26143,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 430755365}
   m_PrefabAsset: {fileID: 0}
-=======
-  m_Name: pb_Mesh-58778
-  serializedVersion: 12
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 36
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 24
-    localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0.5, z: 0.5}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000001000200000002000300040005000600040006000700080009000a0008000a000b000c000d000e000c000e000f00100011001200100012001300140015001600140016001700
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 24
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 4
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 40
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 1152
-    _typelessdata: 0000003f000000bf0000003f00000000000000000000803f000080bf0000000000000000000080bf00000000000000000000003f0000003f0000003f00000000000000000000803f000080bf0000000000000000000080bf000000000000803f000000bf0000003f0000003f00000000000000000000803f000080bf0000000000000000000080bf0000803f0000803f000000bf000000bf0000003f00000000000000000000803f000080bf0000000000000000000080bf0000803f000000000000003f0000003f0000003f000000000000803f00000000000080bf0000000000000000000080bf00000000000000000000003f0000003f000000bf000000000000803f00000000000080bf0000000000000000000080bf000000000000803f000000bf0000003f000000bf000000000000803f00000000000080bf0000000000000000000080bf0000803f0000803f000000bf0000003f0000003f000000000000803f00000000000080bf0000000000000000000080bf0000803f000000000000003f0000003f000000bf0000000000000000000080bf000080bf0000000000000000000080bf00000000000000000000003f000000bf000000bf0000000000000000000080bf000080bf0000000000000000000080bf000000000000803f000000bf000000bf000000bf0000000000000000000080bf000080bf0000000000000000000080bf0000803f0000803f000000bf0000003f000000bf0000000000000000000080bf000080bf0000000000000000000080bf0000803f000000000000003f000000bf000000bf00000000000080bf00000000000080bf0000000000000000000080bf00000000000000000000003f000000bf0000003f00000000000080bf00000000000080bf0000000000000000000080bf000000000000803f000000bf000000bf0000003f00000000000080bf00000000000080bf0000000000000000000080bf0000803f0000803f000000bf000000bf000000bf00000000000080bf00000000000080bf0000000000000000000080bf0000803f00000000000000bf000000bf0000003f000080bf00000000000000000000000000000000000080bf000080bf0000000000000000000000bf0000003f0000003f000080bf00000000000000000000000000000000000080bf000080bf000000000000803f000000bf0000003f000000bf000080bf00000000000000000000000000000000000080bf000080bf0000803f0000803f000000bf000000bf000000bf000080bf00000000000000000000000000000000000080bf000080bf0000803f000000000000003f000000bf000000bf0000803f000000000000000000000000000000000000803f000080bf00000000000000000000003f0000003f000000bf0000803f000000000000000000000000000000000000803f000080bf000000000000803f0000003f0000003f0000003f0000803f000000000000000000000000000000000000803f000080bf0000803f0000803f0000003f000000bf0000003f0000803f000000000000000000000000000000000000803f000080bf0000803f00000000
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.5, y: 0.5, z: 0.5}
-  m_MeshUsageFlags: 0
-  m_CookingOptions: 30
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  'm_MeshMetrics[0]': 1
-  'm_MeshMetrics[1]': 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    serializedVersion: 2
-    offset: 0
-    size: 0
-    path: 
-  m_MeshLodInfo:
-    serializedVersion: 2
-    m_LodSelectionCurve:
-      serializedVersion: 1
-      m_LodSlope: 0
-      m_LodBias: 0
-    m_NumLevels: 1
-    m_SubMeshes:
-    - serializedVersion: 2
-      m_Levels:
-      - serializedVersion: 1
-        m_IndexStart: 0
-        m_IndexCount: 0
->>>>>>> Stashed changes
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -26450,8 +26483,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 848022670}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &849881992 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1261887793421721049, guid: 7b0266fbe955c714286fd49d9042a2fb, type: 3}
@@ -27212,6 +27248,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 554531434}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -27549,6 +27586,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &884532303
 GameObject:
   m_ObjectHideFlags: 0
@@ -28290,8 +28329,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1623218914}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &915818580
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29851,6 +29893,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -30188,6 +30231,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1001214765
 GameObject:
   m_ObjectHideFlags: 0
@@ -32385,8 +32430,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1085419549}
   m_Mesh: {fileID: 1200459934}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1086515472 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -32988,6 +33036,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -33173,6 +33222,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1126349719
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34137,8 +34188,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1177064953}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1177141266 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -34356,6 +34410,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -34475,6 +34530,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1184799682
 GameObject:
   m_ObjectHideFlags: 0
@@ -34587,8 +34644,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1184799682}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1185243951 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -34747,6 +34807,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 311741303}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -34932,6 +34993,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!43 &1200459934
 Mesh:
   m_ObjectHideFlags: 0
@@ -35495,8 +35558,11 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1206108669
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35826,6 +35892,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -36163,6 +36230,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1219347879
 GameObject:
   m_ObjectHideFlags: 0
@@ -36887,8 +36956,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1248322107}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1248383457
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37216,15 +37288,12 @@ Transform:
   m_PrefabInstance: {fileID: 455130247}
   m_PrefabAsset: {fileID: 0}
 --- !u!43 &1269416239
-=======
---- !u!43 &1267089384
->>>>>>> Stashed changes
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-117364
+  m_Name: pb_Mesh-229998
   serializedVersion: 12
   m_SubMeshes:
   - serializedVersion: 2
@@ -37396,7 +37465,6 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
-<<<<<<< Updated upstream
 --- !u!4 &1272159547 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1903793015256574387, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
@@ -37999,6 +38067,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 --- !u!43 &1269416239
 =======
@@ -38363,6 +38432,8 @@ Mesh:
         m_IndexStart: 0
         m_IndexCount: 0
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1332662658
 GameObject:
   m_ObjectHideFlags: 0
@@ -38890,8 +38961,11 @@ MonoBehaviour:
       m_SingletonActionBindings: []
       m_Flags: 0
     m_Reference: {fileID: -3875704489234743591, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1348413586 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -39400,6 +39474,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -40093,6 +40168,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1388479395
 GameObject:
   m_ObjectHideFlags: 0
@@ -41872,8 +41949,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1462530916}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1462728848 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -42511,6 +42591,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 2103952448}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -43712,6 +43793,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1514768936
 GameObject:
   m_ObjectHideFlags: 0
@@ -43824,8 +43907,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514768936}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1517006397
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43896,12 +43982,15 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
 --- !u!1 &1518361142
+<<<<<<< HEAD
 =======
 --- !u!1 &1529687837
 >>>>>>> Stashed changes
 =======
 --- !u!1 &1529687837
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -43909,14 +43998,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - component: {fileID: 1518361146}
   - component: {fileID: 1518361145}
   - component: {fileID: 1518361144}
   - component: {fileID: 1518361143}
   m_Layer: 0
   m_Name: Cube (1)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -43931,11 +44024,14 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!65 &1518361143
@@ -44179,11 +44275,15 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!65 &1518361143
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1518361142}
@@ -44193,6 +44293,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 1529687837}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1518361142}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -44207,6 +44310,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!23 &1518361144
@@ -44216,11 +44320,15 @@ BoxCollider:
 =======
 --- !u!23 &1529687841
 >>>>>>> Stashed changes
+=======
+--- !u!23 &1518361144
+>>>>>>> parent of 94b75de (salones)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1518361142}
@@ -44230,6 +44338,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 1529687837}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1518361142}
+>>>>>>> parent of 94b75de (salones)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -44248,6 +44359,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - {fileID: 2100000, guid: 6b88eadd9352ba4419c98380c0c6ac29, type: 2}
@@ -44257,6 +44369,9 @@ MeshRenderer:
 =======
   - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
 >>>>>>> Stashed changes
+=======
+  - {fileID: 2100000, guid: 6b88eadd9352ba4419c98380c0c6ac29, type: 2}
+>>>>>>> parent of 94b75de (salones)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44280,6 +44395,7 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!33 &1518361145
@@ -44301,10 +44417,15 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!33 &1518361145
+MeshFilter:
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1518361142}
@@ -44331,13 +44452,21 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1518361142}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1518361146
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 1518361142}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -44358,6 +44487,7 @@ GameObject:
   m_PrefabInstance: {fileID: 294150581}
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &1519918748
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -44375,11 +44505,14 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1519918746}
@@ -44389,6 +44522,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 1551835146}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1519918746}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -44401,8 +44537,11 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_Size: {x: 1.0000001, y: 0.99999994, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1530083307 stripped
@@ -45573,6 +45712,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -46299,6 +46439,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1613780204
 GameObject:
   m_ObjectHideFlags: 0
@@ -46463,8 +46605,11 @@ Transform:
   - {fileID: 749381125}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1624886071 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -47734,6 +47879,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -48691,6 +48837,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1680796599
 GameObject:
   m_ObjectHideFlags: 0
@@ -49207,8 +49355,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1688835996}
   m_Mesh: {fileID: 99945590}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1691556999 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -50264,6 +50415,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -50601,6 +50753,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1728733918
 GameObject:
   m_ObjectHideFlags: 0
@@ -51566,8 +51720,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1758837487}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1762788004 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -52007,6 +52164,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 435480044}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -52192,6 +52350,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1783659777
 GameObject:
   m_ObjectHideFlags: 0
@@ -52304,8 +52464,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1783659777}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1784789827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52389,6 +52552,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 481381316}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -52726,6 +52890,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!43 &1791931569
 Mesh:
   m_ObjectHideFlags: 0
@@ -52904,8 +53070,11 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &1793600019 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -52916,6 +53085,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 1437583005}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -53253,6 +53423,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1797070526
 GameObject:
   m_ObjectHideFlags: 0
@@ -53500,8 +53672,11 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1801515274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54769,6 +54944,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -55462,6 +55638,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1865091238
 GameObject:
   m_ObjectHideFlags: 0
@@ -55574,6 +55752,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!1 &1865096430
@@ -55583,6 +55762,9 @@ Transform:
 =======
 --- !u!1 &1886886922
 >>>>>>> Stashed changes
+=======
+--- !u!1 &1865096430
+>>>>>>> parent of 94b75de (salones)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -55590,14 +55772,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - component: {fileID: 1865096434}
   - component: {fileID: 1865096433}
   - component: {fileID: 1865096432}
   - component: {fileID: 1865096431}
   m_Layer: 0
   m_Name: Cube (4)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -55612,13 +55798,18 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!65 &1865096431
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55698,24 +55889,31 @@ MeshFilter:
   m_GameObject: {fileID: 1865096430}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1865096434
+<<<<<<< HEAD
 =======
 --- !u!4 &1886886923
 >>>>>>> Stashed changes
 =======
 --- !u!4 &1886886923
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 1865096430}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -66.61, y: 6.5408, z: -99.15656}
   m_LocalScale: {x: 0.41234, y: 2.4243886, z: 17.56827}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -55728,12 +55926,17 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1868633146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56391,6 +56594,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
 --- !u!1 &1899642904
 GameObject:
+<<<<<<< HEAD
 =======
 --- !u!114 &1886886924
 MonoBehaviour:
@@ -56399,12 +56603,17 @@ MonoBehaviour:
 --- !u!114 &1886886924
 MonoBehaviour:
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1899642908}
@@ -56419,6 +56628,7 @@ MonoBehaviour:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!65 &1899642905
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -56638,11 +56848,14 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1899642904}
@@ -56652,6 +56865,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 1886886922}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1899642904}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -56666,6 +56882,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!23 &1899642906
@@ -56675,11 +56892,15 @@ BoxCollider:
 =======
 --- !u!23 &1886886926
 >>>>>>> Stashed changes
+=======
+--- !u!23 &1899642906
+>>>>>>> parent of 94b75de (salones)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1899642904}
@@ -56689,6 +56910,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 1886886922}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1899642904}
+>>>>>>> parent of 94b75de (salones)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -56731,6 +56955,7 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!33 &1899642907
@@ -57184,11 +57409,15 @@ MeshRenderer:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+--- !u!33 &1899642907
+>>>>>>> parent of 94b75de (salones)
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1899642904}
@@ -57223,13 +57452,21 @@ GameObject:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1899642904}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1899642908
+>>>>>>> parent of 94b75de (salones)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_GameObject: {fileID: 1899642904}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
@@ -57885,6 +58122,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1903793015256574387, guid: 19efd600e29e9fb4791a6fa561d7282b, type: 3}
   m_PrefabInstance: {fileID: 8642476098637966961}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -58335,6 +58573,8 @@ Mesh:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1931065460
 GameObject:
   m_ObjectHideFlags: 0
@@ -58447,8 +58687,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1931065460}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1001 &1931758284
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59034,6 +59277,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1942836078}
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &1964165073
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -59294,11 +59538,14 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1964165071}
@@ -59308,6 +59555,9 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 1931941523}
 >>>>>>> Stashed changes
+=======
+  m_GameObject: {fileID: 1964165071}
+>>>>>>> parent of 94b75de (salones)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -59320,8 +59570,11 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   m_Size: {x: 1.0000001, y: 0.99999994, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1964567157
@@ -59398,6 +59651,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 29287062}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -59576,6 +59830,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &1965317783
 GameObject:
   m_ObjectHideFlags: 0
@@ -60790,8 +61046,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 10928564}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &2031537832 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
@@ -61044,6 +61303,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 96a1a24730907864590227d64e090d2d, type: 3}
   m_PrefabInstance: {fileID: 1631493503}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -61163,6 +61423,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &2060878386
 GameObject:
   m_ObjectHideFlags: 0
@@ -61750,8 +62012,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b0266fbe955c714286fd49d9042a2fb, type: 3}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!4 &2083537486 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 05f2961b7630f7742b5c153d76221bda, type: 3}
@@ -62687,6 +62952,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 96a1a24730907864590227d64e090d2d, type: 3}
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
@@ -63024,6 +63290,8 @@ MeshFilter:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
 --- !u!1 &2133128442
 GameObject:
   m_ObjectHideFlags: 0
@@ -63567,15 +63835,21 @@ SceneRoots:
   - {fileID: 362496207}
   - {fileID: 1623218914}
   - {fileID: 10928564}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 94b75de (salones)
   - {fileID: 887132307}
   - {fileID: 600889772}
   - {fileID: 500467670}
   - {fileID: 1518361146}
   - {fileID: 676497320}
   - {fileID: 794710504}
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 94b75de (salones)
